@@ -16,8 +16,6 @@ Analyze relationship between Bitcoin market sentiment and trader performance.
 
 ## Key Metrics
 - Closed PnL
-- Win rate
-- Leverage
 - Trade direction
 
 ## How to Run
